@@ -50,3 +50,4 @@ wcwidth==0.2.13
 
 # como instalar los requirimientos es siguiendo el siguiente comando 
 # pip install -r requirements.txt   
+
